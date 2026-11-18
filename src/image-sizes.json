@@ -1,0 +1,10 @@
+{
+  "cantiere": { "widths": [360, 600, 900, 1200], "ratio": [360, 180] },
+  "soggiorno": { "widths": [360, 600, 900, 1200], "ratio": [360, 240] },
+  "muratura": { "widths": [480, 800, 1200, 1600], "ratio": [480, 320] },
+  "demo-plaster": { "widths": [360, 600, 900, 1200], "ratio": [360, 240] },
+  "demo-insulation": { "widths": [360, 600, 900, 1200], "ratio": [360, 240] },
+  "demo-finish": { "widths": [360, 600, 900, 1200], "ratio": [360, 240] },
+  "demo-facade-after": { "widths": [360, 600, 900, 1200, 1536], "ratio": [1536, 1024] },
+  "demo-facade-before": { "widths": [360, 600, 900, 1200, 1536], "ratio": [1536, 1024] }
+}

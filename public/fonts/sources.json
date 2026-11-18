@@ -1,0 +1,4 @@
+{
+  "css": "https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap",
+  "fonts": [{ "family": "Archivo", "file": "archivo-latin.woff2", "bytes": 90104, "license": "archivo-OFL.txt" }]
+}
