@@ -64,7 +64,7 @@ h3 { line-height: 1.2; letter-spacing: -.02em; }
 .header.is-scrolled, .header.is-open { background: var(--ink); }
 .header-bar { position: relative; z-index: 1; display: flex; align-items: center; gap: 24px; height: 88px; padding-inline: var(--pad); border-bottom: 1px solid rgba(244,245,238,.17); }
 .logo { display: flex; align-items: center; gap: 17px; }
-.logo strong { font-size: 26px; font-weight: 900; font-stretch: 125%; line-height: 1; letter-spacing: .015em; }
+.logo strong { white-space: nowrap; font-size: 26px; font-weight: 900; font-stretch: 125%; line-height: 1; letter-spacing: .015em; }
 .logo span { padding-left: 16px; border-left: 1px solid rgba(244,245,238,.3); font-size: 12px; white-space: nowrap; }
 .nav { display: flex; gap: clamp(16px,2vw,32px); margin-left: auto; }
 .nav a { padding: 10px 0; font-size: 13.5px; border-bottom: 1px solid transparent; transition: border-color .16s ease; }
@@ -384,7 +384,7 @@ h3 { line-height: 1.2; letter-spacing: -.02em; }
   html { scroll-padding-top: 88px; }
   body { padding-bottom: 78px; }
   .header-bar { height: 68px; }
-  .logo strong { font-size: 23px; }
+  .logo strong { font-size: 17px; }
   .logo span { font-size: 10px; padding-left: 12px; }
   h2 { font-size: clamp(37px,9.9vw,53px); }
   .hero { min-height: 820px; padding: 120px var(--pad) 192px; }
